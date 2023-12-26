@@ -1,4 +1,4 @@
-import 'package:clone_app/view/login_view/login_view.dart';
+import 'package:minimal_social_media/view/login_view/login_view.dart';
 import 'package:flutter/material.dart';
 
 class dont_have_an_account extends StatelessWidget {
