@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683284440706",
+    "project_id": "flutter-clone-app-7fa6e",
+    "storage_bucket": "flutter-clone-app-7fa6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683284440706:android:d36bbd4b0f36aa37fd369b",
+        "android_client_info": {
+          "package_name": "com.example.clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxHG18Q6W2whDWdXXK8yRiRebg9TyEQpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
