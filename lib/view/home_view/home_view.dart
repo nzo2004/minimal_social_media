@@ -1,4 +1,4 @@
-import 'package:clone_app/read%20data/get_user_name.dart';
+import 'package:minimal_social_media/data/get_user_name.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
