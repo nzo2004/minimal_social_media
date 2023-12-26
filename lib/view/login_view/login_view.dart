@@ -1,8 +1,8 @@
-import 'package:clone_app/view/login_view/material/dont_have_an_account/dont_have_an_account.dart';
-import 'package:clone_app/view/login_view/material/field/email_text_field/email_text_field.dart';
-import 'package:clone_app/view/login_view/material/field/passwrod_text_field/passwrod_text_field.dart';
-import 'package:clone_app/view/login_view/material/title/login_title.dart';
-import 'package:clone_app/view/sifremi_Unuttum/sifremi_Unuttum.dart';
+import 'package:minimal_social_media/view/login_view/material/dont_have_an_account/dont_have_an_account.dart';
+import 'package:minimal_social_media/view/login_view/material/field/email_text_field/email_text_field.dart';
+import 'package:minimal_social_media/view/login_view/material/field/passwrod_text_field/passwrod_text_field.dart';
+import 'package:minimal_social_media/view/login_view/material/title/login_title.dart';
+import 'package:minimal_social_media/view/sifremi_Unuttum/sifremi_Unuttum.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
